@@ -19,8 +19,9 @@ right-leaning news coverage. The outlet is one of few online news sources not us
 a paywall model, allowing for wide readership and headline-focused social media
 dissemination. According to the trade journal Press Gazette, The New York Post was
 ranked 3rd in paper circulation in the United States in 2023, and the news website
-consistently ranks in the top ten among visits nationally. This project argues that
-coverage about the environment and wildlife creates its own distinct reader
+consistently ranks in the top ten among visits nationally. 
+
+This project argues that coverage about the environment and wildlife creates its own distinct reader
 ecosystem, shaping how readers encounter explicitly political and social content
 placed alongside it. The basic article data of the "flora and fauna" collected
 here, separated from their contextual story content, is how many digital readers
@@ -30,8 +31,9 @@ generally runs social interest stories as continued coverage, mirroring algorith
 content consumption, with multiple specific stories interacting with topics of
 editorial interest such as immigration, gender politics, and street safety. The
 environment and wildlife sections also use this editorial model, with concurrent
-articles about microplastics, animal disease, and environmental toxicity. Scraping
-this article data allows for data analysis that can be done separately from
+articles about microplastics, animal disease, and environmental toxicity. 
+
+Scraping this article data allows for data analysis that can be done separately from
 continued and regular interaction with the Post website and social media, monetized
 by ad placement and rewarded by engagement. Once dissociated from the interface of
 the website, opportunities emerge for both analytic and creative engagement with
@@ -92,4 +94,4 @@ Notebook for dataframe creation, data manipulation, and plotting.
 Plain-text file containing all extracted headlines.
 - nypost_model_train.ipynb
 
-Notebook for training the GPT-2 model on the headline dataset.  
+Notebook for training the GPT-2 model on the headline dataset.
